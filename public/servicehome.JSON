@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Writing & Grammar Online",
+    "price": 3500,
+    "img": "https://us.123rf.com/450wm/rawpixel/rawpixel1409/rawpixel140903154/31311876-people-and-learning-concept-with-textured-effect.jpg?ver=6"
+  },
+  {
+    "id": 2,
+    "name": "Writing Offline",
+    "price": 6000,
+    "img": "https://previews.123rf.com/images/stocking/stocking1406/stocking140600164/28824622-young-people-studying-in-a-library.jpg"
+  },
+  {
+    "id": 3,
+    "name": "IELTS Offline",
+    "price": 15000,
+    "img": "https://preview.pixlr.com/images/800wm/1424/2/1424100969.jpg"
+  },
+  {
+    "id": 4,
+    "name": "IELTS CRASH BATCH (online)",
+    "price": 12500,
+    "img": "https://assets.wowparenting.com/wp-content/uploads/2019/02/group-study-3-1.jpg"
+  }
+]

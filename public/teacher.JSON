@@ -1,0 +1,27 @@
+
+[
+    {
+      "id": 1,
+      "name": "John Mathew",
+      "img": "https://image.freepik.com/free-photo/portrait-young-male-teacher-light-background_99433-2422.jpg",
+      "expart": "IELTS",
+      "phone": "+1238887452",
+      "desc": "if you want to learn english with this teacher then contact him"
+    },
+    {
+      "id": 2,
+      "name": "Olivia",
+      "img": "https://previews.123rf.com/images/belchonock/belchonock2005/belchonock200501140/146907594-young-english-teacher-near-whiteboard-in-classroom.jpg",
+      "expart": "Spoken & Writting",
+      "phone": "+5468887452",
+      "desc": "if you want to learn english with this teacher then contact him"
+    },
+    {
+      "id": 3,
+      "name": "Emma",
+      "img": "https://image.freepik.com/free-photo/smiling-young-business-woman-with-pen-tablet-notes-gray_155003-14838.jpg",
+      "expart": "Grammar",
+      "phone": "+345348887452",
+      "desc": "if you want to learn english with this teacher then contact him"
+    }
+  ]

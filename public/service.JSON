@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Spoken Online",
+    "price": 3500,
+    "img": "https://media.istockphoto.com/photos/diverse-group-of-students-studying-at-library-picture-id619066144?b=1&k=20&m=619066144&s=170667a&w=0&h=C8VIYCO84zoW8bb7orXGmsSvMMIULY-VgvvvEE9E0Cc="
+  },
+  {
+    "id": 2,
+    "name": "Writing & Grammar Online",
+    "price": 3500,
+    "img": "https://us.123rf.com/450wm/rawpixel/rawpixel1409/rawpixel140903154/31311876-people-and-learning-concept-with-textured-effect.jpg?ver=6"
+  },
+  {
+    "id": 3,
+    "name": "IELTS Online",
+    "price": 4000,
+    "img": "https://d30i16bbj53pdg.cloudfront.net/wp-content/uploads/2015/04/Study-Group-web.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Spoken Offline",
+    "price": 6000,
+    "img": "https://www.thoughtco.com/thmb/cFHbKZ0Gd_iDD8r6aYUDPaoAN08=/1333x1000/smart/filters:no_upscale()/people-studying-in-group-58d592455f9b584683378ff8.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Writing Offline",
+    "price": 6000,
+    "img": "https://previews.123rf.com/images/stocking/stocking1406/stocking140600164/28824622-young-people-studying-in-a-library.jpg"
+  },
+  {
+    "id": 6,
+    "name": "IELTS Offline",
+    "price": 15000,
+    "img": "https://preview.pixlr.com/images/800wm/1424/2/1424100969.jpg"
+  },
+  {
+    "id": 7,
+    "name": "IELTS CRASH BATCH (online)",
+    "price": 12500,
+    "img": "https://assets.wowparenting.com/wp-content/uploads/2019/02/group-study-3-1.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Advanced Spoken online cours",
+    "price": 3000,
+    "img": "https://shortcut-to-brilliant.com/wp-content/uploads/2019/09/Study-Internationally.jpg"
+  }
+]
