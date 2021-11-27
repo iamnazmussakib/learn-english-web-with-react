@@ -2,6 +2,13 @@
 
 This is my project [Learn English](https://learn-english-by-nazmussakib.netlify.app/).
 
+  1.	The front-end of the website has been created by using ReactJS Tailwind CSS.
+
+  2.	Single post route has been implemented.
+
+  3.	Full Responsive Design.
+
+
 ## What You Want?
 
 If you want to learn English then this website will help you
